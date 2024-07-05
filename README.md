@@ -1,6 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQFyLrCjn47C-w/profile-displaybackgroundimage-shrink_350_1400/0/1705894955006?e=1725494400&v=beta&t=YTtH02zhDZ23iLgJ7-XHeUElujsjdi2lfV7m4ONYdZ8)
 
-### Hi there 👋, I'm Joyanto Talukder Joy
+### Hi there,
+##I'm Joyanto Talukder Joy
 #### Web Developer
 
 I'm a Front End Wed developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript, as well as PHP.
